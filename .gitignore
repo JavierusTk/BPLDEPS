@@ -1,0 +1,54 @@
+# Delphi compiled files
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.dof
+*.cfg
+*.res
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
+*.tmp
+
+# Delphi auto-generated files
+*.~*
+__history/
+__recovery/
+*.delphilsp.json
+
+# Build directories
+Win32/
+Win64/
+Debug/
+Release/
+Android/
+iOS/
+OSX/
+
+# IDE files
+*.local
+*.identcache
+*.stat
+
+# Backup files
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Other
+*.log
