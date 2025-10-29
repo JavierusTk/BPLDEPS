@@ -269,4 +269,4 @@ Created for the Delphi development community.
 ---
 
 **Version**: 1.0.0
-**Last Updated**: 2024
+**Last Updated**: 2025-10-29
